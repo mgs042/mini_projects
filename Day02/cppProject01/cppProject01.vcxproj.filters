@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\cppProject01.cpp">
+    <ClCompile Include="main\src\cppProject01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="addition\src\addition.cpp">
@@ -48,6 +48,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="multiplication\inc\multiplication.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main\inc\main.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

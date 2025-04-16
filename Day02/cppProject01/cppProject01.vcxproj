@@ -71,12 +71,14 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <OutDir>$(SolutionDir)bin\$(Platform)\$(Configuration)</OutDir>
+    <OutDir>$(SolutionDir)main\bin\$(Platform)\$(Configuration)</OutDir>
     <IncludePath>$(IncludePath)</IncludePath>
+    <IntDir>$(SolutionDir)main\obj\$(Platform)\$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <OutDir>$(SolutionDir)bin\$(Platform)\$(Configuration)</OutDir>
+    <OutDir>$(SolutionDir)main\bin\$(Platform)\$(Configuration)</OutDir>
     <IncludePath>$(IncludePath)</IncludePath>
+    <IntDir>$(SolutionDir)main\obj\$(Platform)\$(Configuration)\</IntDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -112,7 +114,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\addition\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\subtration\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\multiplication\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\modulo\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\division\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\main\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\addition\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\subtration\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\multiplication\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\modulo\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\division\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -127,7 +129,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\addition\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\subtration\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\multiplication\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\modulo\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\division\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\main\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\addition\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\subtration\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\multiplication\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\modulo\inc;C:\Users\Administrator\Desktop\Mini-Projects\Day02\cppProject01\division\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -141,12 +143,13 @@
     <ClCompile Include="division\src\division.cpp" />
     <ClCompile Include="modulo\src\modulo.cpp" />
     <ClCompile Include="multiplication\src\multiplication.cpp" />
-    <ClCompile Include="src\cppProject01.cpp" />
+    <ClCompile Include="main\src\cppProject01.cpp" />
     <ClCompile Include="subtration\src\subtract.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="addition\inc\addition.h" />
     <ClInclude Include="division\inc\division.h" />
+    <ClInclude Include="main\inc\main.h" />
     <ClInclude Include="modulo\inc\modulo.h" />
     <ClInclude Include="multiplication\inc\multiplication.h" />
     <ClInclude Include="subtration\inc\subtract.h" />
