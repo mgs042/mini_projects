@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\inc\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|solutionrelative:main\\inc\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\src\\cppProject01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|solutionrelative:main\\src\\cppProject01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\modulo\\inc\\modulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|solutionrelative:modulo\\inc\\modulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\addition\\src\\addition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|solutionrelative:addition\\src\\addition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\inc\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|solutionrelative:main\\inc\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\division\\src\\division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|solutionrelative:division\\inc\\division.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\addition\\src\\addition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|solutionrelative:addition\\src\\addition.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\modulo\\inc\\modulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|solutionrelative:modulo\\inc\\modulo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47BCF6CB-F393-45F1-8B36-901B7EE0CC10}|cppProject01.vcxproj|C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\subtration\\src\\subtract.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -58,59 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\inc\\main.h",
-              "RelativeDocumentMoniker": "main\\inc\\main.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\inc\\main.h",
-              "RelativeToolTip": "main\\inc\\main.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-16T11:01:29.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "subtract.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\subtration\\src\\subtract.cpp",
-              "RelativeDocumentMoniker": "subtration\\src\\subtract.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\subtration\\src\\subtract.cpp",
-              "RelativeToolTip": "subtration\\src\\subtract.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T09:30:18.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "division.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\division\\inc\\division.h",
-              "RelativeDocumentMoniker": "division\\inc\\division.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\division\\inc\\division.h",
-              "RelativeToolTip": "division\\inc\\division.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-16T09:16:35.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "division.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\division\\src\\division.cpp",
-              "RelativeDocumentMoniker": "division\\src\\division.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\division\\src\\division.cpp",
-              "RelativeToolTip": "division\\src\\division.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T09:17:28.272Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 9,
@@ -138,19 +87,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "cppProject01.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\src\\cppProject01.cpp",
-              "RelativeDocumentMoniker": "main\\src\\cppProject01.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\src\\cppProject01.cpp",
-              "RelativeToolTip": "main\\src\\cppProject01.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T05:21:54.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "addition.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\addition\\src\\addition.cpp",
               "RelativeDocumentMoniker": "addition\\src\\addition.cpp",
@@ -158,11 +94,73 @@
               "RelativeToolTip": "addition\\src\\addition.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T06:33:18.431Z"
+              "WhenOpened": "2025-04-16T06:33:18.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cppProject01.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\src\\cppProject01.cpp",
+              "RelativeDocumentMoniker": "main\\src\\cppProject01.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\src\\cppProject01.cpp*",
+              "RelativeToolTip": "main\\src\\cppProject01.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-16T05:21:54.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "division.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\division\\src\\division.cpp",
+              "RelativeDocumentMoniker": "division\\src\\division.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\division\\src\\division.cpp",
+              "RelativeToolTip": "division\\src\\division.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-16T09:17:28.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "division.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\division\\inc\\division.h",
+              "RelativeDocumentMoniker": "division\\inc\\division.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\division\\inc\\division.h",
+              "RelativeToolTip": "division\\inc\\division.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T09:16:35.549Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\inc\\main.h",
+              "RelativeDocumentMoniker": "main\\inc\\main.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\main\\inc\\main.h",
+              "RelativeToolTip": "main\\inc\\main.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T11:01:29.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "subtract.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\subtration\\src\\subtract.cpp",
+              "RelativeDocumentMoniker": "subtration\\src\\subtract.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\subtration\\src\\subtract.cpp",
+              "RelativeToolTip": "subtration\\src\\subtract.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-16T09:30:18.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "modulo.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Mini-Projects\\Day02\\cppProject01\\modulo\\inc\\modulo.h",
               "RelativeDocumentMoniker": "modulo\\inc\\modulo.h",
@@ -170,8 +168,7 @@
               "RelativeToolTip": "modulo\\inc\\modulo.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-16T09:18:46.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T09:18:46.679Z"
             },
             {
               "$type": "Document",

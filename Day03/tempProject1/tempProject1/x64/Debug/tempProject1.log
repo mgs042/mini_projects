@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\Mini-Projects\Day03\tempProject1\main.cpp(55,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\Mini-Projects\Day03\tempProject1\main.cpp(69,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  tempProject1.vcxproj -> C:\Users\Administrator\Desktop\Mini-Projects\Day03\tempProject1\x64\Debug\tempProject1.exe
